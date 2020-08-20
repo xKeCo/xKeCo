@@ -1,4 +1,4 @@
-### How's it going? 👋
+### How's it going? 
 
 <!--
 **xKeCo/xKeCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
