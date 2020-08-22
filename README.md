@@ -1,10 +1,9 @@
 <h1 align="center">
 <br>
-  Hi there 👋, I'm David Dias!
+    How's it going?
   <br>
 </h1>
 
-  How's it going?
 
 
 <p align="center">
