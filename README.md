@@ -1,10 +1,11 @@
 ### How's it going? 
 
+<h1>How's it going?</h1>
+
 <p align="center">
-  <h1>How's it going?</h1>
-  I'm Kevin Collazos and sometimes I write some code.
-  I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
-  I'm currently improving my JavaScript skills and learning Next.js.
+  - I'm Kevin Collazos and sometimes I write some code.
+  - I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
+  - I'm currently improving my JavaScript skills and learning Next.js.
   Take Care! 🌹
   
 </p>
