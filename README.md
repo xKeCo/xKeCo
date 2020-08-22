@@ -7,22 +7,24 @@
 
 
 <p align="center">
-  <h3 align="center">
+  <h2 align="center">
 <br>
     - I'm Kevin Collazos and sometimes I write some code.
   <br>
-</h3>
+</h2>
 <h4 align="center">
 <br>
     I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
   <br>
 </h4>
-  <p>
-  - I'm currently improving my JavaScript skills and learning Next.js.
-  </p>
+<h4 align="center">
+<br>
+      I'm currently improving my JavaScript skills and learning Next.js.
+  <br>
+</h4>
   <h3 align="center">
 <br>
-    - Take Care! 🌹
+    Take Care! 🌹
   <br>
 </h3>
 </p>
