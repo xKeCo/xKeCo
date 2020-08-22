@@ -1,8 +1,5 @@
 ### How's it going? 
-
-<p align="center">
-  <h1 aling="center">How's it going?</h1> 
-</p>
+<h1 aling="center">How's it going?</h1> 
 
 <p align="center">
   <a href="https://twitter.com/KevinCollazos_" target="blank">
