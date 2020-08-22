@@ -9,7 +9,7 @@
 <p align="center">
   <h2 align="center">
 <br>
-    - I'm Kevin Collazos and sometimes I write some code.
+   I'm Kevin Collazos and sometimes I write some code.
   <br>
 </h2>
 <h4 align="center">
