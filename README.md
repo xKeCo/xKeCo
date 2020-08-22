@@ -1,6 +1,10 @@
 ### How's it going? 
 
-<h1>How's it going?</h1>
+<h1 aling="center">
+  <br>  
+  How's it going?
+  <br>
+</h1>
 
 <p align="center">
   <p>
@@ -12,9 +16,11 @@
   <p>
   - I'm currently improving my JavaScript skills and learning Next.js.
   </p>
-  <p>
-  Take Care! 🌹
-  </p>
+  <h3 aling="center">
+  <br>  
+  - Take Care! 🌹
+  <br>
+  </h3>
   
 </p>
 
