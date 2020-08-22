@@ -1,6 +1,6 @@
 ### How's it going? 
 <p align="center">
-  ##How's it going? 
+  <h1>How's it going?</h1> 
 </p>
 
 <p align="center">
