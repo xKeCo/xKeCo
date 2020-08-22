@@ -3,10 +3,18 @@
 <h1>How's it going?</h1>
 
 <p align="center">
+  <p>
   - I'm Kevin Collazos and sometimes I write some code.
+  </p>
+  <p>
   - I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
+  </p>
+  <p>
   - I'm currently improving my JavaScript skills and learning Next.js.
+  </p>
+  <p>
   Take Care! 🌹
+  </p>
   
 </p>
 
