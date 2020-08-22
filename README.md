@@ -16,12 +16,11 @@
   <p>
   - I'm currently improving my JavaScript skills and learning Next.js.
   </p>
-  <h3 aling="center">
-  <br>  
-  - Take Care! 🌹
+  <h3 align="center">
+<br>
+    - Take Care! 🌹
   <br>
-  </h3>
-  
+</h3>
 </p>
 
 
