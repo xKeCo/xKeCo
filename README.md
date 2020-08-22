@@ -1,5 +1,3 @@
-### How's it going? 
-
 <h1 aling="center">
 <br>  
   How's it going?
