@@ -12,9 +12,11 @@
     - I'm Kevin Collazos and sometimes I write some code.
   <br>
 </h3>
-  <p>
-  - I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
-  </p>
+<h6 align="center">
+<br>
+    - I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
+  <br>
+</h6>
   <p>
   - I'm currently improving my JavaScript skills and learning Next.js.
   </p>
