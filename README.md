@@ -1,8 +1,11 @@
-<h1 aling="center">
-<br>  
-  How's it going?
+<h1 align="center">
+<br>
+  Hi there 👋, I'm David Dias!
   <br>
 </h1>
+
+  How's it going?
+
 
 <p align="center">
   <p>
