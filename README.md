@@ -1,7 +1,7 @@
 ### How's it going? 
 
 <h1 aling="center">
-  <br>  
+<br>  
   How's it going?
   <br>
 </h1>
