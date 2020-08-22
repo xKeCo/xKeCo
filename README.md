@@ -1,6 +1,7 @@
 ### How's it going? 
 <p align="center">
   <h1>How's it going?</h1> 
+  I'm Kevin Collazos and sometimes I write some code.
 </p>
 
 <p align="center">
