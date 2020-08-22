@@ -7,9 +7,11 @@
 
 
 <p align="center">
-  <p>
-  - I'm Kevin Collazos and sometimes I write some code.
-  </p>
+  <h3 align="center">
+<br>
+    - I'm Kevin Collazos and sometimes I write some code.
+  <br>
+</h3>
   <p>
   - I know some HTML, CSS, JavaScript, React.js, PHP, UX & UI, Java and Python.
   </p>
