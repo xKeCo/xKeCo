@@ -31,7 +31,7 @@
 </h3>
 
 <p >
-  <a href="https://twitter.com/KevinCollazos_" target="blank">
+  <a href="https://twitter.com/kcollazos_" target="blank">
     <img  src="./img/twitter.svg" alt="twitter" height="28px" width="28px" />
    </a>
   <a href="https://instagram.com/kcollazos_" target="blank">
