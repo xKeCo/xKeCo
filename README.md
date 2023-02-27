@@ -1,6 +1,6 @@
 ### Hey... How's it going?, I'm Kevin Collazos - aka [xKeCo][github]
 
-## I'm a Developer??
+## I'm a Frontend Developer.
 
 - ⚡ I'm currently learning Next.js.
 - 🌱 I'm currently learning everything I can
