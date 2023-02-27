@@ -34,7 +34,7 @@
   <a href="https://twitter.com/KevinCollazos_" target="blank">
     <img  src="./img/twitter.svg" alt="twitter" height="28px" width="28px" />
    </a>
-  <a href="https://instagram.com/collazos._" target="blank">
+  <a href="https://instagram.com/kcollazos_" target="blank">
     <img  src="./img/Instagram.png" alt="instagram" height="28px" width="28px" />
   </a>
 </p>
